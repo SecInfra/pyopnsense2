@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pyopnsense2
+Version: 0.0.4
+Summary: pyopnsense2
+Home-page: https://github.com/SecInfra/pyopnsense2
+Author: SecInfra
+Author-email: opensource@secinfra.fr
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+License-File: AUTHORS
+
+===========
+pyopnsense2
+===========
+
+https://github.com/SecInfra/pyopnsense2
+
+By SecInfra
+
