@@ -213,7 +213,7 @@ class Core_Firmware(client.BaseClient):
         url = "core/firmware/update"
         data = {}
 
-        data = self._post( url, args)
+        data = self._post( url, None)
         return data
 
     def upgrade(self, args={}, params={}):
