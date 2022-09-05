@@ -210,7 +210,7 @@ class Core_Firmware(client.BaseClient):
 
     def update(self, args={}, params={}):
         """"""
-        url = "core/firmware/update/"
+        url = "core/firmware/update"
         data = {}
 
         data = self._post( url, args)
@@ -218,7 +218,7 @@ class Core_Firmware(client.BaseClient):
 
     def upgrade(self, args={}, params={}):
         """"""
-        url = "core/firmware/upgrade/"
+        url = "core/firmware/upgrade"
         data = {}
 
         data = self._post( url, args)
